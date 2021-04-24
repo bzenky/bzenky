@@ -1,10 +1,12 @@
-# Hello There !
+# Hello There ! - Olá !
 
-My name is Bruno Zenky. I am a ADS student living in Balneário Camboriú, Brazil. 
+My name is Bruno Zenky. I´m an Analysis and Development of Systems student, living in Balneário Camboriú - SC, Brazil. 
+
+Meu nome é Bruno Zenky. Sou estudante de ADS, atualmente morando em Balneário Camboriú - SC.
 
 <a name="learning-next"></a>
-
-## 📖  What I am currently learning / improving on
+ 
+## 📖  What I am currently learning / improving on - O que estou estudando
 
 &nbsp;
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
@@ -22,10 +24,10 @@ My name is Bruno Zenky. I am a ADS student living in Balneário Camboriú, Brazi
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React.js / React Native" height="25" />][tech_tools_anchor]
 
 
-## 🔍  Where to find me
+## 🔍  Where to find me - Onde me encontrar
 
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/bzenky)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" target="_blank" rel="external"/>](https://www.linkedin.com/in/bzenky)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
