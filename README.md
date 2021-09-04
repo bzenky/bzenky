@@ -2,7 +2,6 @@
 
 ### Front-End Developer Jr.
 
-Aprendendo:
 <div>
  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,4 +27,8 @@ Aprendendo:
 
 <a href = "https://www.linkedin.com/in/bzenky/">
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn logo" title="LinkedIn" target="_blank" rel="external"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA" target="_blank">
+ <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
 </a>
