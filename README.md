@@ -22,13 +22,13 @@
 ###
  
 <a href = "mailto: bzenky@gmail.com">
- <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href = "https://www.linkedin.com/in/bzenky/">
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn logo" title="LinkedIn" target="_blank" rel="external"/>
+<a href = "https://www.linkedin.com/in/bzenky/" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA" target="_blank">
- <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
