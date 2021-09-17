@@ -1,6 +1,6 @@
 # Hello There ! - Olá !
 
-### Front-End Developer Jr.
+### Front-End Developer
 
 <div>
  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,4 +31,8 @@
 
 <a href="https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA" target="_blank">
  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="https://www.twiter.com/zenky" target="_blank">
+ <img src="https://img.shields.io/badge/-Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
