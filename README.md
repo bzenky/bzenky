@@ -33,6 +33,6 @@
  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
-<a href="https://www.twiter.com/zenky" target="_blank">
+<a href="https://www.twitter.com/zenky" target="_blank">
  <img src="https://img.shields.io/badge/-Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
