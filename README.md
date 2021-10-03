@@ -1,4 +1,4 @@
-# Hello There ! - Olá !
+# Hello There !
 
 ### Front-End Developer
 
