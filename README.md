@@ -2,7 +2,7 @@
 <br />
 
 * 🔭 I’m currently working on Rota Seguros BH <br>
-* 🌱 Always learning something, focusing now on React and Next <br>
+* 🌱 Always learning something, now focusing on React and Next <br>
 * 👨‍💻 You can find my resume on my ["Portfolio"](https://www.bzenky.com) <br>
 * ▶️ I´m trying to post (regularly) some content (mostly Front-End) on [Youtube](https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA) <br>
 * 💬 Ask me about CSS, HTML, JavaScript <br>
