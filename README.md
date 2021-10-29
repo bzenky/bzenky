@@ -11,7 +11,7 @@
  
 <br /> 
 
-<h3 align='center'> Techs </h3>
+<h2 align='center'> Techs </h2>
  
 <div align='center'>
  
@@ -40,7 +40,7 @@
 
 <br />
  
-<h3 align='center'> Find me </h3>
+<h2 align='center'> Find me </h2>
 
 <p align='center'>
  <a href = "https://www.linkedin.com/in/bzenky/" target="_blank">
