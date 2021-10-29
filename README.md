@@ -1,7 +1,7 @@
 <h1 align='center'> Hello There, I´m Zenky, welcome ! </h1>
 <br />
 
-* 🔭 I’m currently working on Rota Seguros BH <br>
+* 🔭 I’m currently working on - <br>
 * 🌱 Always learning something, now focusing on React and Next <br>
 * 👨‍💻 You can find my resume on my ["Portfolio"](https://www.bzenky.com) <br>
 * ▶️ I´m trying to post (regularly) some content (mostly Front-End) on [Youtube](https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA) <br>
