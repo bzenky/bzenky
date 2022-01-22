@@ -1,13 +1,11 @@
 <h1 align='center'> Hello There, I´m Zenky, welcome ! </h1>
 <br />
 
-* 🔭 I’m currently working at [Magazord](https://github.com/magazord-plataforma) <br>
-* 🌱 Always learning something, now focusing on React and Next <br>
-* 👨‍💻 You can find my resume in my ["Portfolio"](https://www.bzenky.com) <br>
+* 🔭 I’m currently working at [Magazord](https://github.com/magazord-plataforma) as Front-end Developer<br>
+* 🌱 Always learning something, currently focused on learning and practicing React, Next and some back-end stuff <br>
+* 👨‍💻 You can find my resume at [bzenky.com](https://www.bzenky.com) <br>
 * ▶️ I´m trying to post (regularly) some content (mostly Front-End) on [Youtube](https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA) <br>
-* 💬 Ask me about CSS, HTML, JavaScript <br>
-* ⚡ Fun fact Music and Guitar Lover
-
+* ⚡ Music / Guitar and Counter-Strike Lover
  
 <br /> 
 
@@ -16,6 +14,7 @@
 <div align='center'>
  
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+ ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -46,6 +45,10 @@
  <a href = "https://www.linkedin.com/in/bzenky/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
  </a>
+ 
+ <a href = "bzenky@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn logo" />
+ </a
 
  <a href="https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
