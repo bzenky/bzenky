@@ -2,7 +2,7 @@
 <br />
 
 * 🔭 I’m currently working at [Magazord](https://github.com/magazord-plataforma) as Front-End Developer<br>
-* 🌱 Always learning something, currently focused on learning and practicing React / Next <br>
+* 🌱 Always learning something, currently focused on learning and practicing React / Next / TypeScript <br>
 * 👨‍💻 You can find my resume at [bzenky.com](https://www.bzenky.com) <br>
 * ▶️ I´m trying to post (regularly) some content (mostly Front-End) on [Youtube](https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA) <br>
 * ⚡ Music / Guitar and Counter-Strike Lover
@@ -36,8 +36,7 @@
  <div align='center'> 
   <a href="https://github.com/bzenky">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bzenky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzenky&layout=compact&langs_count=16&theme=tokyonight"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bzenky&theme=tokyonight" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzenky&layout=compact&theme=tokyonight&langs_count=5" />
   </a>
 </div>
 
