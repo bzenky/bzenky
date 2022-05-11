@@ -3,7 +3,7 @@
 
 * 🔭 I’m currently working at [Magazord](https://github.com/magazord-plataforma) as Front-End Developer<br>
 * 🌱 Always learning something, currently focused on learning and practicing React / Next / TypeScript <br>
-* 👨‍💻 You can find my resume at [bzenky.com](https://www.bzenky.com) <br>
+* 👨‍💻 You can find my resume at [bzenky.dev](https://www.bzenky.dev) <br>
 * ▶️ I´m trying to post (regularly) some content (mostly Front-End) on [Youtube](https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA) <br>
 * ⚡ Music / Guitar and Counter-Strike Lover
  
