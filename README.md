@@ -2,7 +2,7 @@
 <br />
 
 * 🔭 I’m currently working at [Magazord](https://github.com/magazord-plataforma) as Front-End Developer<br>
-* 🌱 Always learning something, currently focused on learning and practicing React / Next / TypeScript <br>
+* 🌱 Always learning something, currently focused on learning and practicing React / React Native / Next / TypeScript <br>
 * 👨‍💻 You can find my resume at [bzenky.dev](https://www.bzenky.dev) <br>
 * ▶️ I´m trying to post (regularly) some content (mostly Front-End) on [Youtube](https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA) <br>
 * ⚡ Music / Guitar and Counter-Strike Lover
@@ -18,6 +18,7 @@
  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+ ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
  ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
  ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)&nbsp;
