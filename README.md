@@ -46,19 +46,19 @@
 <h2 align='center'>📧 Find me </h2>
 
 <p align='center'>
- <a href = "https://www.linkedin.com/in/bzenky/" target="_blank">
+ <a href = "https://www.linkedin.com/in/bzenky/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
  </a>
  
- <a href = "bzenky@gmail.com" target="_blank">
+ <a href="mailto:bzenky@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn logo" />
- </a
+ </a>
 
- <a href="https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA" target="_blank">
+ <a href="https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
  </a>
 
- <a href="https://www.twitter.com/zenky" target="_blank">
+ <a href="https://www.twitter.com/zenky">
   <img src="https://img.shields.io/badge/-Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white">
  </a>
 </p>
