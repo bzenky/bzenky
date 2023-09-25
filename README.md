@@ -1,11 +1,10 @@
 <h1 align='center'> Hello There, I´m Zenky, welcome ! 🫡</h1>
 <br />
 
-* 🔭 I’m currently working at [Magazord](https://github.com/magazord-plataforma) as Front-End Developer<br>
 * 🌱 Currently focused on learning and practicing TypeScript / React / Next / React Native / Node <br>
 * 👨‍💻 You can find my resume at [bzenky.dev](https://www.bzenky.dev) <br>
 * ▶️ I´m <ins>trying</ins> to post (regularly) some content (mostly Front-End) on [Youtube](https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA) <br>
-* ⚡ Music / Guitar and Counter-Strike Lover
+* ⚡ Music / Guitar, Counter-Strike and Table Tennis Lover
  
 <br /> 
 
