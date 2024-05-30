@@ -2,10 +2,11 @@
 <br />
 
 🔥 Passionate about front-end development <br>
+⚛️ Current React Front-end developer <br>
 👨‍💻 Find my resume at [bzenky.dev](https://www.bzenky.dev) <br>
 ⚡ Music, Guitar, Counter-Strike and Table Tennis Lover
- 
-<h2>📧 Conect with me </h2>
+
+<h2>📧 Connect with me </h2>
 
 <p>
  <a href = "https://www.linkedin.com/in/bzenky/">
