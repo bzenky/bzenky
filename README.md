@@ -1,28 +1,18 @@
-<h1 align='center'> Hello There, I´m Zenky</h1>
-<br />
+### Hello There, I´m Zenky
 
-🔥 Passionate about front-end development <br>
-⚛️ Current React Front-end developer <br>
-👨‍💻 Find my resume at [bzenky.dev](https://www.bzenky.dev) <br>
-⚡ Music, Guitar, Counter-Strike and Table Tennis Lover
+👨‍💻 I´m a software developer
 
-<h2>📧 Connect with me </h2>
+☕ I write code. Coffee helps
 
-<p>
- <a href = "https://www.linkedin.com/in/bzenky/">
-  LinkedIn
- </a>
- |
- <a href="mailto:bzenky@gmail.com">
-  Gmail
- </a>
+work [@playbookux](https://github.com/PlaybookUX)
+
+### Find me
+
+[Linkedin](https://www.linkedin.com/in/bzenky/)
 |
- <a href="https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA">
-  Youtube
- </a>
- |
- <a href="https://www.bzenky.dev">
-  Website
- </a>
-</p>
+[Gmail](mailto:bzenky@gmail.com)
+|
+[Youtube](https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA)
+|
+[Portfolio/Website](https://www.bzenky.dev)
 
